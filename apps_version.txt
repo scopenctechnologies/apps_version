@@ -1,0 +1,6 @@
+{
+	"habit_tracker": "1.2",
+	"pregnancy_yoga": "1.1",
+	"math_genius": "1.1",
+	"tic_tac_toe": "1.1"
+}
